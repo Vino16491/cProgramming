@@ -1,0 +1,31 @@
+notepad++ --done
+vscode --done
+atom --done
+nodejs --done
+sublime --done
+msoffice 16 --done
+vlc --done
+drivers -- done
+mongodb --done
+anaconda --done
+irfanview --done
+audacity 
+daemon tools --not require
+android studio -- done
+sdk -- done
+shareit 
+github
+heroku
+googlewebdesigner
+silverlight
+googlechrome --done
+virtualbox 
+Dlighter --done
+inkspace
+colorpicker
+robo3t
+
+
+  Hi m vonovd, today is saturday 
+
+ Hi m vonovd, today is saturday
